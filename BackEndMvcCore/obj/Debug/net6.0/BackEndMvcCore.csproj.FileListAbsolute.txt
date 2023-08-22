@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\bin\Debug\net6.0\BackEndMvcCore.deps.json
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\bin\Debug\net6.0\BackEndMvcCore.dll
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\bin\Debug\net6.0\BackEndMvcCore.pdb
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\BackEndMvcCore.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\BackEndMvcCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\BackEndMvcCore.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\BackEndMvcCore.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\BackEndMvcCore.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\BackEndMvcCore.dll
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\refint\BackEndMvcCore.dll
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\BackEndMvcCore.pdb
+C:\Users\ASUS\source\repos\BackEndProcetMVC\BackEndMvcCore\obj\Debug\net6.0\ref\BackEndMvcCore.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEndProcetMVC", "BackEndProcetMVC.csproj", "{FEC80EB5-96B9-44A1-B868-CC3EBE16174D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC80EB5-96B9-44A1-B868-CC3EBE16174D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC80EB5-96B9-44A1-B868-CC3EBE16174D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC80EB5-96B9-44A1-B868-CC3EBE16174D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC80EB5-96B9-44A1-B868-CC3EBE16174D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E128B8AD-41D3-418F-8B4F-569FCFF58E58}
+	EndGlobalSection
+EndGlobal
